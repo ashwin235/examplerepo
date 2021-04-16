@@ -1,0 +1,4 @@
+git-show-branch - Show branches and their commits ... With this option,
+the command includes the current branch to the list of revs to be shown when it is not .git-show-branch -
+Show branches and their commits ... With this option, 
+the command includes the current branch to the list of revs to be shown when it is not .
